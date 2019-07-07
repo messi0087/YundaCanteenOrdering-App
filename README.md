@@ -16,7 +16,7 @@ yarn install 或npm install
 
 在config/default中配置好port和本机的ip
 
-连接后及可以使用项目/**-----****   别忘了后端配有数据库，先执行sql安装数据库我使用的是mysql的数据库
+连接后及可以使用项目/**-----****   别忘了后端配有数据库，先执行sql配置数据库我使用的是mysql的数据库
 
 
 
